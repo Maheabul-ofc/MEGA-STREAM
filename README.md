@@ -8,27 +8,37 @@ MEGA STREAM is a streaming platform website that allows users to browse and watc
 
 # Features:
 1. Home Page:
-•Displays trending movies and TV shows with a visually appealing banner.
-•Interactive movie cards with details like title, duration, genre, and action buttons (Watch and Share).
-•Search bar for finding specific content.
+<br>
+• Displays trending movies and TV shows with a visually appealing banner.
+<br>
+• Interactive movie cards with details like title, duration, genre, and action buttons (Watch and Share).
+<br>
+• Search bar for finding specific content.
 
 2. Navigation:
+<br>
 •Easy-to-use navigation bar with links to Movies, TV Shows, Web Series, Anime, and Subscription Plans.
-
 3. Login and Sign-Up:
+<br>
 • Users can log in or sign up to access their accounts.
+<br>
 • Responsive and user-friendly forms with validation.
 
 4. Subscription Plans:
+<br>
 • A dedicated page for subscription plans.
 
 5. Footer:
+<br>
 • Includes quick links, contact information, and social media links.
 
 
 # Technologies Used:
+<br>
 • HTML5: For structuring the web pages.
+<br>
 • CSS3: For styling and layout, including animations and responsive design.
+<br>
 • Google Fonts: Used for typography.
 
 
@@ -36,39 +46,46 @@ MEGA STREAM is a streaming platform website that allows users to browse and watc
 
 mega-stream/
 │
-├── index.html            # Main homepage file
-├── style.css             # Main stylesheet for the homepage
-├── log-in.css            # Stylesheet for the login and sign-up pages
-├── horijental-line.html  # Section divider HTMl for good looking
-├── horijental-line.css   # Stylesheet for the section divider
-├── log-in.html           # Login page
-├── sign-up.html          # Sign-up page
-├── log-in.css            # Stylesheet for the login and sign-up pages
-├── subscribtion.html     # Subscription plans page
-├── ALL PHOTOES/          # Folder containing all images (e.g., movie posters, logo)
+├── index.html            # Main homepage file <br>
+├── style.css             # Main stylesheet for the homepage <br>
+├── log-in.css            # Stylesheet for the login and sign-up pages <br>
+├── horijental-line.html  # Section divider HTMl for good looking <br>
+├── horijental-line.css   # Stylesheet for the section divider <br>
+├── log-in.html           # Login page <br>
+├── sign-up.html          # Sign-up page <br>
+├── log-in.css            # Stylesheet for the login and sign-up pages <br>
+├── subscribtion.html     # Subscription plans page <br>
+├── ALL PHOTOES/          # Folder containing all images (e.g., movie posters, logo) <br>
 └── README.md             # Project documentation
 
 
 # Usage:
 
 1. Home Page:
+<br>
 • The home page displays trending movies and TV shows. Users can scroll through the movie cards and click on the "Watch" button to view The content.
 
 2. Navigation:
+<br>
 • Use the navigation bar to explore different categories like Movies, TV Shows, Web Series, and Anime.
 
 3. Search Bar:
+<br>
 • Enter keywords in the search bar to find specific content.
 
 4. Login/Sign-Up:
+<br>
 • Use the "Log In" and "Sign Up" buttons to access user accounts.
 
 5. Subscription Plans:
+<br>
 • Click on the "Subscription Plan" link to view available plans.
 
 
 # Acknowledgments:
+<br>
 • Google Fonts for providing the Roboto font.
+<br>
 • Zee5 and Netflix for inspiration in the design and layout.
 
 # Contact:
