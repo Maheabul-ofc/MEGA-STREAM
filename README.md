@@ -8,26 +8,25 @@ MEGA STREAM is a streaming platform website that allows users to browse and watc
 
 # Features:
 1. Home Page:
-• Displays trending movies and TV shows with a visually appealing banner.
+<br>• Displays trending movies and TV shows with a visually appealing banner.
 <br>
 • Interactive movie cards with details like title, duration, genre, and action buttons (Watch and Share).
 <br>
 • Search bar for finding specific content.
 
-2. Navigation:
-<br>
-•Easy-to-use navigation bar with links to Movies, TV Shows, Web Series, Anime, and Subscription Plans.
-3. Login and Sign-Up:
+3. Navigation:
+<br>•Easy-to-use navigation bar with links to Movies, TV Shows, Web Series, Anime, and Subscription Plans.
+4. Login and Sign-Up:
 <br>
 • Users can log in or sign up to access their accounts.
 <br>
 • Responsive and user-friendly forms with validation.
 
-4. Subscription Plans:
+5. Subscription Plans:
 <br>
 • A dedicated page for subscription plans.
 
-5. Footer:
+6. Footer:
 <br>
 • Includes quick links, contact information, and social media links.
 
