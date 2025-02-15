@@ -40,7 +40,8 @@ MEGA STREAM is a streaming platform website that allows users to browse and watc
 | sign-up.html       | Sign-up page                                  |
 | log-in.css         | Stylesheet for the login and sign-up pages     |
 | subscription.html  | Subscription plans page        |
-| ALL PHOTOES/      | Folder containing all images (e.g., posters, logos) |
+| ALL PHOTOES      | Folder containing all images (e.g., posters, logos) |
+| Background image      | Background image for body |
 | README.md         | Project documentation            |
 
 
