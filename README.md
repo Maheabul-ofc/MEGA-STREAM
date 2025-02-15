@@ -33,7 +33,7 @@ MEGA STREAM is a streaming platform website that allows users to browse and watc
 
 # File Structure:
 <br>mega-stream<br>
-│
+│<br>
 ├── index.html            # Main homepage file <br>
 ├── style.css             # Main stylesheet for the homepage <br>
 ├── log-in.css            # Stylesheet for the login and sign-up pages <br>
