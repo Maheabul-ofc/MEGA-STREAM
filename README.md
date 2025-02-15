@@ -36,14 +36,12 @@ MEGA STREAM is a streaming platform website that allows users to browse and watc
 |----------------------|----------------------------------------------|
 | index.html          | Main homepage file                            |
 | style.css           | Main stylesheet for the homepage             |
-| log-in.css         | Stylesheet for the login and sign-up pages     |
-| horizental-line.css | Stylesheet for the trending section divider   |
-| horizental-line.html | Trending section HTML (if used separately)  |
 | log-in.html        | Login page                                    |
 | sign-up.html       | Sign-up page                                  |
-| subscription.html  | Subscription plans page (if available)       |
+| log-in.css         | Stylesheet for the login and sign-up pages     |
+| subscription.html  | Subscription plans page        |
 | ALL PHOTOES/      | Folder containing all images (e.g., posters, logos) |
-| README.md         | Project documentation (this file)            |
+| README.md         | Project documentation            |
 
 
 # Usage:
